@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-### Category theoretic implementation of Conceptual Blending
-=======
-# Category-Theoretic Concept Blending
 
 This module implements a **Neuro-Symbolic** approach to conceptual blending. It leverages the semantic reasoning capabilities of Large Language Models (LLMs) alongside the mathematical rigor of **Category Theory (Colimits / Pushouts)** to generate deterministic, logically sound, and highly compressible conceptual blends.
 
